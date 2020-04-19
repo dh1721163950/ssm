@@ -1,4 +1,4 @@
-package com.dh.sc.user.bean;
+package com.dh.gmall.bean;
 
 import javax.persistence.Id;
 import java.io.Serializable;
